@@ -126,3 +126,12 @@ hr {
 
 /* .round {
 } */
+@media only screen and (max-width:300px) {
+    .container {
+        height: 40vh;
+        max-width: 100%;
+        background-image: url("https://www.thesprucecrafts.com/thmb/Vt1FZn9M70GkW8ydms9__4W5xh8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pencil-on-woodwork-carpentry-workshop-table-1141695735-40a89f010c804f0b9f205fb9b1615640.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
